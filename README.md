@@ -17,4 +17,4 @@ O vídeo faz uma reflexão contrastando os benfícios e malefícios da evoluçã
 [LINK PARA O VÍDEO AQUI](vídeo/beneficios-e-desafios-IA.mp4)
 
 ## 💭 Reflexão
-Foi uma experiência gratificante e empolgante poder gerar um vídeo com um avatar próximo de um apresentador real. É interessante pensar em todas as possibilidades que a Ia traz para nosso progresso.
+Foi uma experiência gratificante e empolgante poder gerar um vídeo com um avatar próximo de um apresentador real. É interessante pensar em todas as possibilidades que a IA traz para nosso progresso.
