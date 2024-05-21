@@ -14,7 +14,7 @@ Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo inspirado no canal 
 ## 🚀 Resultados
 O vídeo faz uma reflexão contrastando os benfícios e malefícios da evolução da IA para a humanidade como um todo.
 
-[LINK PARA O VÍDEO AQUI](https://github.com/GiancarloVieira/lab-natty-or-not/blob/main/v%C3%ADdeo/Benef%C3%ADcios%20e%20Perigos%20da%20IA.mp4)
+[LINK PARA O VÍDEO AQUI](vídeo/beneficios-e-desafios-IA.mp4)
 
 ## 💭 Reflexão (Opcional)
 Foi um aexperiência gratificante e empolgante poder gerar um vídeo com um avatar próximo de um apresentador real. É interessante pensar em todas as possibilidades que a Ia traz para nosso progresso.
