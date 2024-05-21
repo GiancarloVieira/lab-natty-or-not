@@ -1,7 +1,7 @@
 # Inteligência Artificial - Benefícios e Desafios
 
 ## 📒 Descrição
-Projeto de criação de um recurso de inteligência artificial com parte de uma tarefa do bootcamp da IA da DIO.
+Projeto de criação de um recurso de inteligência artificial como parte de uma tarefa do bootcamp da IA da DIO sobre IA para Devs.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
